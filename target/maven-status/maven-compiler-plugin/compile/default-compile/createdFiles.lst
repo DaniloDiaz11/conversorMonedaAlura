@@ -1,0 +1,5 @@
+com\alura\conversormonedaalura\modelo\Moneda.class
+com\alura\conversormonedaalura\modelo\Test.class
+com\alura\conversormonedaalura\ConversorMonedaAlura.class
+com\alura\conversormonedaalura\modelo\Dolar.class
+com\alura\conversormonedaalura\modelo\CantidadInvalidaException.class
